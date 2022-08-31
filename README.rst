@@ -84,10 +84,10 @@ in-depth explanation, with examples, troubleshooting issues, and more
 useful information.
 
 .. _asyncio: https://t.me/DIBIBl
-.. _MTProto: https://core.telegram.org/mtproto
+.. _MTProto: https://t.me/DIBIBl
 .. _Telegram: https://t.me/DIBIBl
-.. _Compatibility and Convenience: https://docs.telethon.dev/en/stable/misc/compatibility-and-convenience.html
-.. _Read The Docs: https://docs.telethon.dev
+.. _Compatibility and Convenience: https://t.me/DIBIBl
+.. _Read The Docs: https://t.me/DIBIBl
 
 .. |logo| image:: logo.svg
     :width: 24pt
