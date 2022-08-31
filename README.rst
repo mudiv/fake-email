@@ -32,7 +32,10 @@ Example
     
 response
 -----------
- {'mail': 'mcb06928@cdfaq.com', 'session': 'lmtl7ui7lu7halsn1l7wdvba5g'}	
+.. code-block:: python 
+    
+    
+    {'mail': 'mcb06928@cdfaq.com', 'session': 'lmtl7ui7lu7halsn1l7wdvba5g'}	
 
 fetch messages
 -----------
@@ -50,14 +53,9 @@ fetch messages
 	break
 response
 -----------
- {     
-  'topic': 'Hi', 
-  'name': 'روكس \\ RUKS', 
-  'from': '**@gmail.com', 
-  'to': 'knz83195@xcoxc.com', 
-  'message': "Hi bro ,I'm muntazir",  
-  'datetime': ['datetime']
- }
+.. code-block:: python
+
+    {'topic': 'Hi', 'name': 'روكس \\ RUKS', 'from': '**@gmail.com', 'to': 'knz83195@xcoxc.com', 'message': "Hi bro ,I'm muntazir", 'datetime': ['datetime']}
 
 Example
 -----------
@@ -89,7 +87,5 @@ useful information.
 .. _Compatibility and Convenience: https://t.me/DIBIBl
 .. _Read The Docs: https://t.me/DIBIBl
 
-.. |logo| image:: logo.svg
-    :width: 24pt
-    :height: 24pt
+
 
