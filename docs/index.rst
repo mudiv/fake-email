@@ -6,7 +6,7 @@ Modernize
 .. toctree::
    :maxdepth: 2
 
-   fixers
+   
 
 
 Purpose of the project
