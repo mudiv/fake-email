@@ -8,39 +8,33 @@ pip install fake-email
 ```
 ### Example
 ```python
-# by ruks
 from fake_email import Email
 
-# Show email
-mail = Email()
+
+mail=Email().Mail()
 print(mail)
 
-# fetch the message
+
+
 while True:
-	if mail.new_message():
-		print(mail.get_message())
+	mass=Email(mail["session"]).inbox()
+	if mass:
+		print(mass)
+		break
+	
 ```
 ### The result
 
 ```json
-[
-  {
-    "read": false,
-    "expanded": false,
-    "forwarded": false,
-    "repliedTo": false,
-    "sentDate": "2021-05-10T07:32:41.000+0000",
-    "sentDateFormatted": "May 10, 2021, 7:32:41 AM",
-    "sender": "author@example.com",
-    "from": "[Ljavax.mail.internet.InternetAddress;@37e8c463",
-    "subject": "Test message",
-    "bodyPlainText": "",
-    "bodyHtmlContent": "mas",
-    "bodyPreview": "Test description\r\n",
-    "id": "2118940165622869807"
-  }
-]
-
+1k'}
+{
+    'topic': 'Hi', 
+    'name': 'روكس \\ RUKS', 
+    'from': '******@gmail.com', 
+    'to': 'knz83195@xcoxc.com', 
+    'message': "Hi bro ,I'm muntazir", 
+    'datetime': ['datetime']
+}
 ```
 </p>
 <p align="center">
