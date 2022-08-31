@@ -1,7 +1,7 @@
 :tocdepth: 3
 
 Fake-email 
-/////////
+//////////
 
 .. toctree::
    :maxdepth: 2
