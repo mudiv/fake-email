@@ -25,9 +25,8 @@ while True:
 ```
 ### The result
 
-```json
-{
-	'topic': 'Hi', 
+```python 
+'topic': 'Hi', 
 	'name': 'روكس \\ RUKS', 
 	'from': '**@gmail.com', 
 	'to': 'knz83195@xcoxc.com', 
