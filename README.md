@@ -25,7 +25,7 @@ while True:
 ```
 ### The result
 
-```php 
+```cs 
  {     
     'topic': 'Hi', 
     'name': 'روكس \\ RUKS', 
