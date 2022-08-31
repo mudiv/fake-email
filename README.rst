@@ -22,8 +22,8 @@ Installing
 Example
 -----------
 
-.. code-block:: python
-    
+single file::
+
     from fake_email import Email 
 
     mail=Email().Mail()
@@ -40,7 +40,7 @@ response
 fetch messages
 -----------
 
-.. code-block:: python
+single file::
 
     
     from fake_email import Email
@@ -60,7 +60,7 @@ response
 Example
 -----------
 
-.. code-block:: python
+single file::
     
     from fake_email import Email 
 
