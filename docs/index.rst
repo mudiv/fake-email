@@ -70,12 +70,9 @@ single file::
 	print(mass)
 	break
 
-Indices and tables
-//////////////////
+Next steps
+//////////
 
-* :ref:`genindex`
-* :ref:`search`
-
-
-.. _modernize: https://t.me/DIBIBl
-.. _project website: https://t.me/DIBIBl
+Do you like how fake-email looks? Check out `Read The Docs <https://t.me/DIBIBl>`  for a more
+in-depth explanation, with examples, troubleshooting issues, and more
+useful information.
