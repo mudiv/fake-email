@@ -83,7 +83,7 @@ Do you like how fake-email looks? Check out `Read The Docs`_ for a more
 in-depth explanation, with examples, troubleshooting issues, and more
 useful information.
 
-.. _asyncio: https://docs.python.org/3/library/asyncio.html
+.. _asyncio: https://t.me/DIBIBl
 .. _MTProto: https://core.telegram.org/mtproto
 .. _Telegram: https://t.me/DIBIBl
 .. _Compatibility and Convenience: https://docs.telethon.dev/en/stable/misc/compatibility-and-convenience.html
