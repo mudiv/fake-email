@@ -26,7 +26,6 @@ while True:
 ### The result
 
 ```json
-1k'}
 {
     'topic': 'Hi', 
     'name': 'روكس \\ RUKS', 
