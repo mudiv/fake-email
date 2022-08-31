@@ -51,7 +51,7 @@ source_suffix = ".rst"
 master_doc = "README"
 
 # General information about the project.
-project = "python_example"
+project = "fake email"
 copyright = "2016, Sylvain Corlay"
 author = "Sylvain Corlay"
 
