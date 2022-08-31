@@ -1,6 +1,6 @@
 :tocdepth: 3
 
-Fake email 
+Fake-email 
 /////////
 
 .. toctree::
