@@ -30,12 +30,14 @@ single file::
 
     mail=Email().Mail()
     print(mail)
+
 response
 ========
 
 single file::
 
     {'mail': 'mcb06928@cdfaq.com', 'session': 'lmtl7ui7lu7halsn1l7wdvba5g'}	
+
 fetch messages
 ==============
 single file::
@@ -46,6 +48,7 @@ single file::
     if mass:
      print(mass)
      break
+
 response
 ========
 
