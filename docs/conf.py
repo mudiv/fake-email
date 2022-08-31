@@ -36,7 +36,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "modernize"
+project = "fake email"
 copyright = "2014, python-modernize team; 2020 pycqa/modernize team"
 
 # The version info for the project you're documenting, acts as replacement for
