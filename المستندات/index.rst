@@ -87,15 +87,18 @@ single file::
 Next steps
 ==========
 
-Do you like how fake-email looks? Check out `Read The Docs`_ for a more
+Do you like how fake-email looks? Check out Read The Docs for a more
 in-depth explanation, with examples, troubleshooting issues, and more
 useful information.
 
-.. _asyncio: https://t.me/DIBIBl
-.. _MTProto: https://t.me/DIBIBl
-.. _Telegram: https://t.me/DIBIBl
-.. _Compatibility and Convenience: https://t.me/DIBIBl
-.. _Read The Docs: https://t.me/DIBIBl
+Read The Docs
+/////////////
 
+* :ref:`genindex`
+* :ref:`search`
+
+
+.. _modernize: https://pypi.python.org/pypi/modernize
+.. _project website: https://github.com/pycqa/modernize
 
 
