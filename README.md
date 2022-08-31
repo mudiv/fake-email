@@ -35,6 +35,28 @@ while True:
     'datetime': ['datetime']
 }
 ```
+
+### You can enter the private inbox in the fake email through the session
+```python 
+{
+ 'mail': 'rjx14056@cdfaq.com',
+ 'session': 'eywvgnjdwf53ex7z9rq8lxunf9'
+}
+```
+### Example get inbox
+
+```python 
+from fake_email import Email
+
+# get inbox
+
+while True:
+	mass=Email(session).inbox()
+	if mass:
+		print(mass)
+		break
+```
+
 </p>
 <p align="center">
   <img alt="muntazir-halim' Github Stats" src="https://github-readme-stats.vercel.app/api?username=muntazir-halim&show_icons=true&include_all_commits=true&hide_border=true" />
