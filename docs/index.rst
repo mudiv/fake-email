@@ -16,12 +16,14 @@ It is a temporary email app to receive all messages, it automatically deletes th
 
 Installing
 ==========
+
 single file::
 
     pip install fake-email 
 
 get email
 =========
+
 single file::
 
     from fake_email import Email 
@@ -30,6 +32,7 @@ single file::
     print(mail)
 response
 ========
+
 single file::
 
     {'mail': 'mcb06928@cdfaq.com', 'session': 'lmtl7ui7lu7halsn1l7wdvba5g'}	
@@ -45,12 +48,14 @@ single file::
      break
 response
 ========
+
 single file::
 
     {'topic': 'Hi', 'name': 'روكس \\ RUKS', 'from': '**@gmail.com', 'to': 'knz83195@xcoxc.com', 'message': "Hi bro ,I'm muntazir", 'datetime': ['datetime']}
 
 Example
 =======
+
 single file::
 
     from fake_email import Email 
