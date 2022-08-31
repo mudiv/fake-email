@@ -73,6 +73,6 @@ single file::
 Next steps
 //////////
 
-Do you like how fake-email looks? Check out `Read The Docs <https://t.me/DIBIBl>`  for a more
+Do you like how fake-email looks? Check out `Read The Docs <https://t.me/DIBIBl>`_.  for a more
 in-depth explanation, with examples, troubleshooting issues, and more
 useful information.
