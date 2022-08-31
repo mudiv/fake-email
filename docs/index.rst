@@ -10,7 +10,7 @@ Fake-email
 
 
 Welcome to fake-email documentation!
-========
+====================================
 
 .. important::
 
@@ -18,12 +18,12 @@ Welcome to fake-email documentation!
     read `Compatibility and Convenience`_ to learn how to migrate.
 
 What is this?
--------------
+=============
 
 It is a temporary email app to receive all messages, it automatically deletes the email 10 minutes after it is created
 
 Installing
-----------
+==========
 
 .. code-block:: sh
 
@@ -31,8 +31,7 @@ Installing
 
 
 Example
------------
-
+=======
 single file::
 
     from fake_email import Email 
@@ -42,14 +41,14 @@ single file::
 
     
 response
------------
+========
 .. code-block:: python 
     
     
     {'mail': 'mcb06928@cdfaq.com', 'session': 'lmtl7ui7lu7halsn1l7wdvba5g'}	
 
 fetch messages
------------
+==============
 
 single file::
 
@@ -63,13 +62,13 @@ single file::
         print(mass)
 	break
 response
------------
+========
 .. code-block:: python
 
     {'topic': 'Hi', 'name': 'روكس \\ RUKS', 'from': '**@gmail.com', 'to': 'knz83195@xcoxc.com', 'message': "Hi bro ,I'm muntazir", 'datetime': ['datetime']}
 
 Example
------------
+=======
 
 single file::
     
@@ -86,7 +85,7 @@ single file::
 	
 	
 Next steps
-----------
+==========
 
 Do you like how fake-email looks? Check out `Read The Docs`_ for a more
 in-depth explanation, with examples, troubleshooting issues, and more
