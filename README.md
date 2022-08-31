@@ -26,7 +26,8 @@ while True:
 ### The result
 
 ```python 
-'topic': 'Hi', 
+{       
+        'topic': 'Hi', 
 	'name': 'روكس \\ RUKS', 
 	'from': '**@gmail.com', 
 	'to': 'knz83195@xcoxc.com', 
