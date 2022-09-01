@@ -4,6 +4,13 @@
 [![PyPI version](https://img.shields.io/pypi/v/fake-email.svg)](https://pypi.org/project/fake-email)
 [![YouTube](https://img.shields.io/static/v1?label=subscribe&logo=youtube&logoColor=ff0000&color=brightgreen&message=4.2k)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
 [![Discord](https://img.shields.io/discord/566880874789076992?logo=telegram)](https://t.me/TBIBB)
+[![YouTube](https://img.shields.io/readthedocs/modernize?logo=read-the-docs)](https://fake-email.readthedocs.io/en/latest/)
+
+
+
+
+
+
 
 
 
