@@ -1,7 +1,7 @@
 <h1 align="center">fake-email</h1>
 <p align="center">A simple library project, a library function to make a temporary email, receive all messages</p>
 
-
+[![PyPI version](https://img.shields.io/pypi/v/fake-email.svg)](https://pypi.org/project/fake-email)
 ## Installation :
 ```
 pip install fake-email
